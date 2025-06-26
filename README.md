@@ -1,16 +1,19 @@
-## Hi there 👋
+## ⌇hi there ₍˄·͈༝·͈˄₎
 
-<!--
-**feerness/feerness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dev, coding enthusiast, and problem solver. Always learning, building, and vibing with tech.**
 
-Here are some ideas to get you started:
+Here are some things I’m currently working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on NeoVC.
+- 🌱 I’m currently learning Next.js and Astro.
+- ⚡ Fun fact: I can code with one hand while holding my cat in the other.
+
+•——————•°•✿•°•——————•
+
+My Mantra:
+
+"Great things never come from comfort zones."  
+"The only way to do great work is to love what you do."  
+"Fail fast, learn faster, code smarter."
+
+[ ೃ⁀➷More about me](https://feerness.github.io/portfolio/)
