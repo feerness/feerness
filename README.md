@@ -5,8 +5,7 @@
 Here are some things I’m currently working on:
 
 - 🔭 I’m currently working on NeoVC.
-- 🌱 I’m currently learning Next.js and Astro.
-- ⚡ Fun fact: I can code with one hand while holding my cat in the other.
+- 🌱 I’m currently learning Next.js.
 
 •——————•°•✿•°•——————•
 
