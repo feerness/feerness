@@ -4,7 +4,7 @@
 
 Here are some things I’m currently working on:
 
-- 🔭 I’m currently working on NeoVC.
+- 🔭 I’m currently working on WEB APPS.
 - 🌱 I’m currently learning Next.js.
 
 •——————•°•✿•°•——————•
