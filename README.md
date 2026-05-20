@@ -14,5 +14,3 @@ My Mantra:
 "Great things never come from comfort zones."  
 "The only way to do great work is to love what you do."  
 "Fail fast, learn faster, code smarter."
-
-[ ೃ⁀➷More about me](https://feerness.github.io/portfolio/)
